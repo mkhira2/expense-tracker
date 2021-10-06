@@ -11,5 +11,3 @@ cd expense-tracker
 npm install
 npm start
 ```
-
-localhost will open automatically in the browser
